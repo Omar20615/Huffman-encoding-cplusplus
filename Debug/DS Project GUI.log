@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(96): warning C4101: 'ntemp': unreferenced local variable
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(95): warning C4101: 'temp': unreferenced local variable
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(235): warning C4018: '<': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(253): warning C4018: '<': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(309): warning C4018: '<': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(336): warning C4018: '<=': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(338): warning C4018: '<=': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(345): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(362): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(391): warning C4018: '<=': signed/unsigned mismatch
+D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\MyProject.h(123): warning C4715: 'Queue::retrieveTop': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DS Project GUI.vcxproj -> D:\Courses\Semester 4\Data Structure\Lab Codes\Project\DS Project GUI\Abdul Rehman 334937 Omar Sibghat 348458 42 CE B DS Project GUI\Debug\DS Project GUI.exe
